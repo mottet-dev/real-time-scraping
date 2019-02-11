@@ -6,7 +6,7 @@ Source code for [my tutorial on Medium](https://medium.com/@mottet.dev/real-time
 
 ```sh
 git clone
-cd
+cd real-time-scraping
 pipenv install
 pipenv run python main.py
 ```
